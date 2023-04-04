@@ -1,16 +1,17 @@
 ### Hi there 👋
+ My name is Hugo Jorge, i'm 22 years old, brazillian and student.  
+ 
+ Welcome to my profile!  
+ Feel free to give me any feedbacks, i'm allways open to learn new things. 
 
-<!--
-**Hugonez/Hugonez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### Olá 👋
+ Me chamo Hugo Jorge, tenho 22 anos, sou brasileiro e estudante.
+ 
+ Seja bem vindo ao meu perfil.  
+ Sinta-se a vontade para me dar qualquer feedback, estou sempre aberto a aprender coisas novas.
+ 
+ **Idiomas**
+ * Português :brazil:
+ * Inglês :us:
+ 
+  **C**  **Java**
