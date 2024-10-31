@@ -14,4 +14,4 @@
  * Português :brazil:
  * Inglês :us:
  
-  **C** , **Java**, **C#/.NET** , **AngularJS**
+  **Python**,**C** , **Java**, **C#/.NET**, **Html**, **AngularJS**
